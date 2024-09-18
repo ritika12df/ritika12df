@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...cybersecurity 
 - 🌱 I’m currently learning ...programming languages 
 - 💞️ I’m looking to collaborate on ...many things 
-- 📫 How to reach me ...
+- 📫 How to reach me ...ritikasrivastava456@gmail.com 
 
 <!---
 ritikasrivastava/Ritikasrivastava ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
